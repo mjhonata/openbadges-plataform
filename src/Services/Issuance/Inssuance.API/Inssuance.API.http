@@ -1,6 +1,0 @@
-@Inssuance.API_HostAddress = http://localhost:5076
-
-GET {{Inssuance.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

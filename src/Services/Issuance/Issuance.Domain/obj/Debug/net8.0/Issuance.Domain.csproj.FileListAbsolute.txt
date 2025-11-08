@@ -1,0 +1,12 @@
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\bin\Debug\net8.0\Issuance.Domain.deps.json
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\bin\Debug\net8.0\Issuance.Domain.dll
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\bin\Debug\net8.0\Issuance.Domain.pdb
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\obj\Debug\net8.0\Issuance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\obj\Debug\net8.0\Issuance.Domain.AssemblyInfoInputs.cache
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\obj\Debug\net8.0\Issuance.Domain.AssemblyInfo.cs
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\obj\Debug\net8.0\Issuance.Domain.csproj.CoreCompileInputs.cache
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\obj\Debug\net8.0\Issuance.Domain.sourcelink.json
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\obj\Debug\net8.0\Issuance.Domain.dll
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\obj\Debug\net8.0\refint\Issuance.Domain.dll
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\obj\Debug\net8.0\Issuance.Domain.pdb
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Domain\obj\Debug\net8.0\ref\Issuance.Domain.dll
