@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FbWb5xNJYCoypW0UwylvOObrEYOcxc7wHpHvVC6SVLc=",
+  "Source": "Issuance.API",
+  "BasePath": "_content/Issuance.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

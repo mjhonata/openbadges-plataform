@@ -9,3 +9,4 @@
   <ItemGroup>
     <ProjectReference Include="..\Issuance.Domain\Issuance.Domain.csproj" />
 </ItemGroup>
+</Project>

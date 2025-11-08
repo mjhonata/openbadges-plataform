@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Issuance.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Issuance.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Issuance.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Issuance.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Issuance.Domain/Issuance.Domain.csproj",
+      "msbuildProject": "../Issuance.Domain/Issuance.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Issuance.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Matheus\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\NTT DATA\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\Issuance.Domain.csproj": {
+              "projectPath": "C:\\NTT DATA\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\Issuance.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

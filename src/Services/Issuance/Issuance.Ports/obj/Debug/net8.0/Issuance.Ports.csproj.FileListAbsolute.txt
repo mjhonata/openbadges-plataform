@@ -1,0 +1,16 @@
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\bin\Debug\net8.0\Issuance.Ports.deps.json
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\bin\Debug\net8.0\Issuance.Ports.dll
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\bin\Debug\net8.0\Issuance.Ports.pdb
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\bin\Debug\net8.0\Issuance.Domain.dll
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\bin\Debug\net8.0\Issuance.Domain.pdb
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\Issuance.Ports.csproj.AssemblyReference.cache
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\Issuance.Ports.GeneratedMSBuildEditorConfig.editorconfig
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\Issuance.Ports.AssemblyInfoInputs.cache
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\Issuance.Ports.AssemblyInfo.cs
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\Issuance.Ports.csproj.CoreCompileInputs.cache
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\Issuance.Ports.sourcelink.json
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\Issuance.7086C29E.Up2Date
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\Issuance.Ports.dll
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\refint\Issuance.Ports.dll
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\Issuance.Ports.pdb
+C:\NTT DATA\openbadges-plataform\src\Services\Issuance\Issuance.Ports\obj\Debug\net8.0\ref\Issuance.Ports.dll
