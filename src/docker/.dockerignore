@@ -1,0 +1,16 @@
+echo "bin/
+obj/
+.git/
+.gitignore
+*.md
+*.yml
+*.yaml
+Dockerfile
+docker-compose.yml
+.env
+.vscode/
+.idea/
+*.user
+*.suo
+*.log
+" > .dockerignore

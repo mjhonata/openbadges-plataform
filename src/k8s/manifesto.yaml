@@ -1,0 +1,31 @@
+# apiVersion: v1
+# kind: Deployment
+# metadata:
+#   name: badges
+
+# spec:
+#   selector:
+#     matchLabels:
+#       app: badges
+#   template:
+#     metadata:
+#       labels:
+#         app: badges
+#     spec:
+#       containers:
+#         - name: badges
+#           image: my-app-image:latest 
+#           ports:
+#             - containerPort: 8080
+# apiVersion: v1
+# kind: Service
+# metadata:
+#   name: badges
+# spec:
+#   selector:
+#     app: badges
+#   ports:
+#     - protocol: HTTPS
+#       port: 443
+#       targetPort: 8000
+#   type: LoadBalancer
