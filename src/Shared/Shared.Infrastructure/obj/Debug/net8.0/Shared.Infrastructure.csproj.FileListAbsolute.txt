@@ -1,0 +1,13 @@
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.deps.json
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.dll
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.pdb
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.csproj.AssemblyReference.cache
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.AssemblyInfoInputs.cache
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.AssemblyInfo.cs
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.csproj.CoreCompileInputs.cache
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.sourcelink.json
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.dll
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\refint\Shared.Infrastructure.dll
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.pdb
+C:\NTT DATA\openbadges-plataform\src\Shared\Shared.Infrastructure\obj\Debug\net8.0\ref\Shared.Infrastructure.dll
