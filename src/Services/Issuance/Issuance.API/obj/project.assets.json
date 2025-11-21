@@ -1703,19 +1703,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matheus\\.nuget\\packages\\": {}
+    "C:\\Users\\mjhonata\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NTT DATA\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.API\\Issuance.API.csproj",
-      "projectName": "Issuance.API",
-      "projectPath": "C:\\NTT DATA\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.API\\Issuance.API.csproj",
-      "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\NTT DATA\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.API\\obj\\",
+      "projectUniqueName": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Api\\Issuance.Api.csproj",
+      "projectName": "Issuance.Api",
+      "projectPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Api\\Issuance.Api.csproj",
+      "packagesPath": "C:\\Users\\mjhonata\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mjhonata\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1727,14 +1727,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\NTT DATA\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Adapters\\Issuance.Adapters.csproj": {
-              "projectPath": "C:\\NTT DATA\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Adapters\\Issuance.Adapters.csproj"
+            "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Adapters\\Issuance.Adapters.csproj": {
+              "projectPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Adapters\\Issuance.Adapters.csproj"
             },
-            "C:\\NTT DATA\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Application\\Issuance.Application.csproj": {
-              "projectPath": "C:\\NTT DATA\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Application\\Issuance.Application.csproj"
+            "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Application\\Issuance.Application.csproj": {
+              "projectPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Application\\Issuance.Application.csproj"
             },
-            "C:\\NTT DATA\\openbadges-plataform\\src\\Shared\\Shared.Infrastructure\\Shared.Infrastructure.csproj": {
-              "projectPath": "C:\\NTT DATA\\openbadges-plataform\\src\\Shared\\Shared.Infrastructure\\Shared.Infrastructure.csproj"
+            "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Shared\\Shared.Infrastructure\\Shared.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Shared\\Shared.Infrastructure\\Shared.Infrastructure.csproj"
             }
           }
         }
@@ -1748,7 +1748,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -1774,6 +1775,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.22, 8.0.22]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.22, 8.0.22]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.22, 8.0.22]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.22, 8.0.22]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1782,7 +1801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
