@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Domain\\Issuance.Domain.csproj": {
-              "projectPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Domain\\Issuance.Domain.csproj"
+            "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\Issuance.Domain.csproj": {
+              "projectPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\Issuance.Domain.csproj"
             }
           }
         }

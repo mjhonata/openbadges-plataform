@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mrfdL81vaJ4=",
+  "dgSpecHash": "urydEkuoH9w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Domain\\Issuance.Domain.csproj",
+  "projectFilePath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\Issuance.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mjhonata\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\mjhonata\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",

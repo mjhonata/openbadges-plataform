@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Domain\\Issuance.Domain.csproj": {}
+    "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\Issuance.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Domain\\Issuance.Domain.csproj": {
+    "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\Issuance.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Domain\\Issuance.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\Issuance.Domain.csproj",
         "projectName": "Issuance.Domain",
-        "projectPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Domain\\Issuance.Domain.csproj",
+        "projectPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\Issuance.Domain.csproj",
         "packagesPath": "C:\\Users\\mjhonata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\issuance\\Issuance.Domain\\obj\\",
+        "outputPath": "C:\\Users\\mjhonata\\OneDrive - NTT DATA EMEAL\\Documents\\GitHub\\openbadges-plataform\\src\\Services\\Issuance\\Issuance.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mjhonata\\AppData\\Roaming\\NuGet\\NuGet.Config"
